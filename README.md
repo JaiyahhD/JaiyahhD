@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaiyahhD
-- 👀 I’m interested in becoming a Full-Stack Engineer
+- 👀 I’m interested in becoming a Front-End Developer
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on projects to help build my portfolio. 
 - 📫 How to reach me: jai.kdavis04@gmail.com
