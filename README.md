@@ -1,31 +1,26 @@
-@JaiyahhD
-👋 Introduction
-Welcome to my GitHub profile! Welcome to my GitHub profile! I'm currently working on a Personal Blog Website, where I document my developer journey and share insights into web development. Feel free to explore my projects below!
+JaiyahhD 👋 Welcome to my GitHub! I'm a front-end developer driven by the desire to leverage technology for positive impact in healthcare. My current focus is on building user-friendly and effective web applications within the **health tech industry**, particularly in the **post-partum delivery** and **cancer clinical sectors**.
 
-🌱 About Me
-🌱 I’m currently learning Javascript and React.
-💼 My career aspiration is to become a Full Stack Developer, proficient in both front-end and back-end technologies.
-💬 Ask me about HTML, CSS, Project Setup, Wireframing, and Prototyping.
-📫 How to reach me: jai.kdavis04@gmail.com.
+🌱 **About Me:**
+I'm deepening my expertise in **JavaScript** and **React**, essential tools for crafting dynamic and responsive front-end experiences. My goal is to contribute to innovative solutions that improve patient care and support.
 
-🔧 Technologies & Tools
-Here are some of the technologies and tools I work with:
+💼 **Career Aspiration:**
+To specialize as a front-end developer in health tech, creating accessible and impactful digital tools for patients and healthcare providers.
 
-Programming Languages: HTML, CSS, JavaScript
-Frameworks & Libraries: Bootstrap, Tailwind CSS
-Databases: MySQL
-Tools & Technologies: Visual Studio Code, Git, GitHub, Chrome DevTools
+💬 **Ask me about:**
+HTML, CSS, JavaScript, React, Project Setup, Wireframing, and Prototyping, especially in the context of user experience in healthcare applications.
 
-📫 Contact Me
+🔧 **Technologies & Tools:**
+- **Programming Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React, Bootstrap
+- **Tools & Technologies:** Visual Studio Code, Git, GitHub
+
+📫 **Contact Me:**
+Email: jai.kdavis04@gmail.com
 LinkedIn: (https://www.linkedin.com/in/jai-d-882358132/)
 GitHub: (https://github.com/JaiyahhD)
 
-🌟 Open to Collaboration and Job Opportunities: Feel free to reach out to me via email at jai.kdavis04@gmail.com if you're interested in collaborating on projects or discussing potential job opportunities.
-
-❤️ Support
-If you find my work helpful or interesting, consider supporting me:
-💬 Send me your feedback
-
+🌟 **Open to Collaboration & Job Opportunities:**
+I'm eager to connect with professionals and organizations in the health tech space. Feel free to reach out via email for collaborations or discussions about front-end development roles.
 <!---
 JaiyahhR/JaiyahhR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
