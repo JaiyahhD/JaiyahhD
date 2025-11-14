@@ -1,29 +1,25 @@
-JaiyahhD 👋 Welcome to my GitHub! I'm a front-end developer driven by the desire to leverage technology for positive impact in healthcare. My current focus is on building user-friendly and effective web applications within the **health tech industry**, particularly in the **post-partum delivery** and **cancer clinical sectors**.
+**Jaiyah Davis👋🏽 Welcome to my GitHub!**
+I'm a data enthusiast and aspiring QA/Data Analytics professional, passionate about using technology to drive informed decisions and improve processes, especially in healthcare and business environments.
 
 🌱 **About Me:**
-I'm deepening my expertise in **JavaScript** and **React**, essential tools for crafting dynamic and responsive front-end experiences. My goal is to contribute to innovative solutions that improve patient care and support.
+Currently deepening my expertise in **data analytics, QA testing, and process improvement**. I'm building hands-on experience with tools like **Excel, SQL, R, Python, Tableau, and QA testing frameworks** while developing projects that showcase my analytical and quality assurance skills.
 
 💼 **Career Aspiration:**
-To specialize as a front-end developer in health tech, creating accessible and impactful digital tools for patients and healthcare providers.
+To contribute as a **QA Analyst or Data Analyst**, leveraging data and testing strategies to optimize systems, improve user experiences, and support decision-making in healthcare, tech, and business operations.
 
 💬 **Ask me about:**
-HTML, CSS, JavaScript, React, Project Setup, Wireframing, and Prototyping, especially in the context of user experience in healthcare applications.
+Data Analytics, QA Testing, SQL, Excel, R, Python, Tableau, Test Case Design, Bug Reporting, Process Improvement, and Project Workflows.
 
 🔧 **Technologies & Tools:**
-- **Programming Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React, Bootstrap
-- **Tools & Technologies:** Visual Studio Code, Git, GitHub
+**Data & Analytics:** Excel, SQL, R, Python, Tableau
+**QA & Testing:** Manual Testing, Test Case Design, Bug Tracking (Jira, GitHub)
+**Web & Dev Skills:** HTML, CSS, JavaScript, React (applied to personal projects)
+**Tools:** Visual Studio Code, Git, GitHub
 
 📫 **Contact Me:**
-Email: jai.kdavis04@gmail.com
-LinkedIn: (https://www.linkedin.com/in/jai-d-882358132/)
-GitHub: (https://github.com/JaiyahhD)
+Email: [jai.kdavis04@gmail.com](mailto:jai.kdavis04@gmail.com)
+LinkedIn: [linkedin.com/in/jai-d-882358132](https://www.linkedin.com/in/jai-d-882358132/)
+GitHub: [github.com/JaiyahhD](https://github.com/JaiyahhD)
 
 🌟 **Open to Collaboration & Job Opportunities:**
-I'm eager to connect with professionals and organizations in the health tech space. Feel free to reach out via email for collaborations or discussions about front-end development roles.
-<!---
-JaiyahhR/JaiyahhR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
+Excited to collaborate on QA and data analytics projects or contribute to teams looking for passionate learners ready to make an impact.
