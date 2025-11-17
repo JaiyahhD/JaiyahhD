@@ -1,8 +1,8 @@
 **Jaiyah Davis👋🏽 Welcome to my GitHub!**
-I'm a data enthusiast and aspiring QA/Data Analytics professional, passionate about using technology to drive informed decisions and improve processes, especially in healthcare and business environments.
+I'm an aspiring QA professional, passionate about using technology to drive informed decisions and improve processes, especially in healthcare and business environments.
 
 🌱 **About Me:**
-Currently deepening my expertise in **data analytics, QA testing, and process improvement**. I'm building hands-on experience with tools like **Excel, SQL, R, Python, Tableau, and QA testing frameworks** while developing projects that showcase my analytical and quality assurance skills.
+Currently deepening my expertise in QA testing. I'm building hands-on experience with tools like **QA testing frameworks, JavaScript, Cypress, and Jira** while developing projects that showcase my analytical and quality assurance skills.
 
 💼 **Career Aspiration:**
 To contribute as a **QA Analyst**, leveraging data and testing strategies to optimize systems, improve user experiences, and support decision-making in healthcare, tech, and business operations.
