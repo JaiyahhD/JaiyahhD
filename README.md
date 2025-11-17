@@ -5,19 +5,17 @@ I'm a data enthusiast and aspiring QA/Data Analytics professional, passionate ab
 Currently deepening my expertise in **data analytics, QA testing, and process improvement**. I'm building hands-on experience with tools like **Excel, SQL, R, Python, Tableau, and QA testing frameworks** while developing projects that showcase my analytical and quality assurance skills.
 
 💼 **Career Aspiration:**
-To contribute as a **QA Analyst or Data Analyst**, leveraging data and testing strategies to optimize systems, improve user experiences, and support decision-making in healthcare, tech, and business operations.
+To contribute as a **QA Analyst**, leveraging data and testing strategies to optimize systems, improve user experiences, and support decision-making in healthcare, tech, and business operations.
 
 💬 **Ask me about:**
-Data Analytics, QA Testing, SQL, Excel, R, Python, Tableau, Test Case Design, Bug Reporting, Process Improvement, and Project Workflows.
+ QA Testing, SQL, Cypress, Test Case Design, Bug Reporting, Process Improvement, and Project Workflows.
 
 🔧 **Technologies & Tools:**
-**Data & Analytics:** Excel, SQL, R, Python, Tableau
 **QA & Testing:** Manual Testing, Test Case Design, Bug Tracking (Jira, GitHub)
 **Web & Dev Skills:** HTML, CSS, JavaScript, React (applied to personal projects)
 **Tools:** Visual Studio Code, Git, GitHub
 
 📫 **Contact Me:**
-Email: [jai.kdavis04@gmail.com](mailto:jai.kdavis04@gmail.com)
 LinkedIn: [linkedin.com/in/jai-d-882358132](https://www.linkedin.com/in/jai-d-882358132/)
 GitHub: [github.com/JaiyahhD](https://github.com/JaiyahhD)
 
